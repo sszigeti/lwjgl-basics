@@ -1,3 +1,0 @@
-As you might have noticed from the [Display](Display) and [Textures](Textures) tutorial, there is a lot of OpenGL-specific code that could be wrapped inside of neat object-oriented classes like Game, Texture, TextureRegion, Color, etc. So, instead of cluttering each tutorial up with endless amounts of boilerplate, I have wrapped these essential classes in an API you can grab [here](https://github.com/mattdesl/lwjgl-basics). 
-
-I encourage you to look at the source of each class to see how it all works "Under the Hood" -- in fact, some lessons may have an Appendix looking at how these wrapper classes were implemented with specific OpenGL calls. 
